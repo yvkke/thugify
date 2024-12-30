@@ -1,0 +1,1 @@
+go to https://developer.spotify.com/ and create a new app. After creating it go to settings and put your client id and client secret to "YOUR_CLIENT_ID" and "YOUR_CLIENT_SECRET" then run the script and accept. After that every time you have the script running it will paste the song you are listening.
